@@ -1,0 +1,7 @@
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.tfvars.local
+crash.log
+modules/auto-shutdown/lambda/*.zip
